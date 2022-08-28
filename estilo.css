@@ -5,24 +5,6 @@ body{
 h1 {
   text-align: center;
 }
-.caixa1 {
-   position: absolute;
-   background: blue;
-   width: 200px;
-   height: 200px;
-   color: #ffffff;
-   right: 500px;
-   top: 200px;
-}
-.caixa2 {
-   position: absolute;
-   background: yellow;
-   width: 200px;
-   height: 200px;
-   color: #000000;
-   right: 705px;
-   top: 200px;
-}
 
 .menuPrincipal {
   position: absolute;
@@ -43,7 +25,7 @@ li {
 }
 li a {
   display: block;
-  color: rgb(248, 248, 248);
+  color: rgb(255, 255, 255);
   padding: 14px 16px;
   text-align: center;
   text-decoration: none;
@@ -106,7 +88,7 @@ h5{
   left: 0;
   margin: 20px;
   border-color: rgb(0, 8, 54);
-  border-width: 40px;
+  border-width: 20px;
   border-style: solid;
   padding: 20px;
 }
